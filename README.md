@@ -15,8 +15,10 @@ Basically what this means is, we're going to get the InfoController and call its
 If you want to add more modules make sure they all have a controller and a view!
 Controllers and Views have to follow the following structure:
 
+```
 [ModuleName]
     - Controller/[ModuleName]Controller.php
     - View/[ModuleName]View.php
+```
 
 **Happy coding!**
